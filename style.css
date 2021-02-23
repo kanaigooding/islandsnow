@@ -8,3 +8,8 @@ div.ui.borderless.mainmenu.menu {
   box-shadow: none;
   border: none;
 }
+
+.footer-background {
+  margin-top: 25px;
+  height: 200px;
+}
