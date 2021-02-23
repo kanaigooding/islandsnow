@@ -3,3 +3,8 @@ div.ui.borderless.topmenu.menu{
   box-shadow: none;
   border: none;
 }
+
+div.ui.borderless.mainmenu.menu {
+  box-shadow: none;
+  border: none;
+}
